@@ -1,0 +1,18 @@
+﻿Build started 2/3/2022 11:28:48 AM.
+     1>Project "C:\Users\Friends.DESKTOP-DV3V0LA\Documents\Visual Studio 2015\Projects\algorithms\algorithms\algorithms.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt algorithms.cpp stdafx.cpp
+         algorithms.cpp
+         stdafx.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Friends.DESKTOP-DV3V0LA\Documents\Visual Studio 2015\Projects\algorithms\Release\algorithms.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Friends.DESKTOP-DV3V0LA\Documents\Visual Studio 2015\Projects\algorithms\Release\algorithms.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Friends.DESKTOP-DV3V0LA\Documents\Visual Studio 2015\Projects\algorithms\Release\algorithms.lib" /MACHINE:X86 /SAFESEH Release\algorithms.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         algorithms.vcxproj -> C:\Users\Friends.DESKTOP-DV3V0LA\Documents\Visual Studio 2015\Projects\algorithms\Release\algorithms.exe
+     1>Done Building Project "C:\Users\Friends.DESKTOP-DV3V0LA\Documents\Visual Studio 2015\Projects\algorithms\algorithms\algorithms.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.88
